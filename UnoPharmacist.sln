@@ -15,7 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnoPharmacist.Wasm", "UnoPh
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		UnoPharmacist\UnoPharmacist.Shared\UnoPharmacist.Shared.projitems*{4d1f131e-cb46-4612-81b4-a53f0d3e4fdd}*SharedItemsImports = 4
 		UnoPharmacist\UnoPharmacist.Shared\UnoPharmacist.Shared.projitems*{6279c845-92f8-4333-ab99-3d213163593c}*SharedItemsImports = 13
+		UnoPharmacist\UnoPharmacist.Shared\UnoPharmacist.Shared.projitems*{b9028752-ab86-4531-8b7c-389cf0e86e49}*SharedItemsImports = 4
+		UnoPharmacist\UnoPharmacist.Shared\UnoPharmacist.Shared.projitems*{db0f5a43-b13c-4d93-acb7-19b90ff3fce2}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
